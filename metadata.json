@@ -1,0 +1,6 @@
+{
+  "name": "Prestige Plastering & Rendering",
+  "description": "Premium plastering and rendering website for Prestige Plastering & Rendering, based in Wigan, UK. Showcases silicone rendering, plastering systems, property refurbishment, and provides a custom quote builder and contact panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
